@@ -1,2 +1,2 @@
 this is the first line.
-this is the second line.
+a new line is added deleting the second line.
